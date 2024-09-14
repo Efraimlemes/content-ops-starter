@@ -311,7 +311,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Envio para Cliente
       color: text-dark
       styles:
         self:

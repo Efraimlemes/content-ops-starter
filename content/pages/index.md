@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Fale Conosco
         altText: ''
-        url: /
+        url: 'https://flordeprata.netlify.app/'
         showIcon: true
         icon: arrowRight
         iconPosition: right

@@ -262,7 +262,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Parcelamos sua compra em até 10x sem juros no cartão faster
+      text: Parcelamos tudo compra em até 10x sem juros no cartão
       color: text-dark
       styles:
         self:

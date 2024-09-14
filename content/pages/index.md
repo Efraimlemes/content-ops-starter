@@ -114,15 +114,13 @@ sections:
         type: FeaturedItem
       - title: C & C
         subtitle: Brincos
-        text: |
+        text: |+
           aqui voce adiciona a Descriçao para os brincos do CC
 
 
 
+          ### (68)9 9922-3344
 
-
-
-          (68)9 9922-3344
         image:
           url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
           altText: Featured icon three

@@ -266,7 +266,7 @@ sections:
       hora de pagar sua fatura do cartão.
     media:
       title: Title of the video
-      url: 'https://www.youtube.com/watch?v=M8kThxSjFaQ'
+      url: /imagens/videoflor.mp4
       controls: false
       aspectRatio: '16:9'
       styles:

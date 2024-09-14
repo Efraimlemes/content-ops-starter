@@ -189,7 +189,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /main/public/images/videoflor.mp4
+      url: /images/videoflor.mp4
       autoplay: true
       loop: true
       muted: true

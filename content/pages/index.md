@@ -484,7 +484,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Semi-Joias
     items:
       - title: Penduricai
         tagline: prata 925

@@ -657,7 +657,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: C & C
         tagline: Semi-Joia
         subtitle: This is the item subtitle
         text: |

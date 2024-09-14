@@ -189,7 +189,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Lançamentos
+  - subtitle: Prata 925
     images:
       - url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
         altText: Wellster logo

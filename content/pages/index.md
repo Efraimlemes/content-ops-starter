@@ -308,7 +308,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 400
+        fontWeight: 700
     type: GenericSection
   - type: GenericSection
     title:

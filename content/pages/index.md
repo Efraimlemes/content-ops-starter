@@ -153,7 +153,7 @@ sections:
     actions:
       - label: Fale Conosco
         altText: ''
-        url: /
+        url: 'https://w.app/UseFlordePrata'
         showIcon: false
         icon: arrowRight
         iconPosition: right

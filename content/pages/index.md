@@ -476,7 +476,7 @@ sections:
 seo:
   metaTitle: Use - Flor de Prata
   metaDescription: Use Flor de Prata - Catalago Virtual
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Flor de Prata.png
   type: Seo
 type: PageLayout
 ---

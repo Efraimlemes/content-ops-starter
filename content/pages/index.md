@@ -42,80 +42,27 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedItemsSection
-    title:
-      text: Joias em Prata 925 e Semi-Joias
-      color: text-dark
+  - title:
+      text: Catalgo de Produtos
+      color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Qualidade e Bom gosto
+    subtitle: Semi-Joias
     items:
-      - type: FeaturedItem
-        title: Penduricai
-        subtitle: Brincos
-        text: |+
-          aqui voce adiciona a Descriçao para os brincos penduricai
-
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: Snake
-        subtitle: Brincos
+      - title: Penduricai
+        tagline: prata 925
+        subtitle: R$ 300
         text: |
-          Aqui voce adiciona a descriçao dos brinco de cobrinha
+          Descrição do penduricai
         image:
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - type: FeaturedItem
-        title: Outros Brincos disponiveis
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
-          altText: Placeholder text
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
+          altText: Placeholder Image
           styles:
             self:
               borderRadius: x-large
-        actions: []
+          type: ImageBlock
         colors: bg-light-fg-dark
         styles:
           self:
@@ -125,21 +72,22 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col-reverse
+            flexDirection: col
+        type: FeaturedItem
       - title: C & C
-        subtitle: Brincos
+        tagline: Semi-Joia
+        subtitle: R$ 120
         text: |+
-          aqui voce adiciona a Descriçao para os brincos do CC
-
-          ## R$ 150
+          Descriçao do produto
 
         image:
           url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
-          altText: Featured icon three
-          elementId: ''
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
           type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -148,100 +96,45 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
         type: FeaturedItem
-    actions:
-      - label: Fale Conosco
-        altText: ''
-        url: 'https://w.app/UseFlordePrata'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: conheça nossos produtos
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
+      - title: Snake
+        tagline: Ouro 18k
+        subtitle: R$ 500
+        text: |+
+          Descriçao do produto
+
+        image:
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-8
+          - pb-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Prata 925
-    images:
-      - url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/hero2.svg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/Flor de Prata.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: >-
-          /images/logo-23223894-1612374968-13a69ad395541ebb45a2455c74576ccc1612374969-480-0.png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: Lançametos
-      color: text-dark
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+    type: FeaturedItemsSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -264,26 +157,6 @@ sections:
       para melhor atender você cliente oferecemos o parcelamento da sua compra
       para que você possa desfrutar de nossos produtos com mais tranquilidade na
       hora de pagar sua fatura do cartão.
-    media:
-      title: Title of the video
-      url: /imagens/videoflor.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: Só na flor de prata
       color: text-primary
@@ -316,7 +189,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /imagens/videoflor.mp4
+      url: 'https://www.youtube.com/watch?v=M8kThxSjFaQ '
       autoplay: true
       loop: true
       muted: true
@@ -342,41 +215,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -575,99 +413,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Penduricai
-        tagline: prata 925
-        subtitle: R$ 300
-        text: |
-          Descrição do penduricai
-        image:
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: C & C
-        tagline: Semi-Joia
-        subtitle: R$ 120
-        text: |+
-          Descriçao do produto
-
-        image:
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Snake
-        tagline: Ouro 18k
-        subtitle: R$ 500
-        text: |+
-          Descriçao do produto
-
-        image:
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Sugestões e Dicas
       color: text-dark

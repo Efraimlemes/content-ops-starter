@@ -718,7 +718,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Contate-nos
+      text: Sugestões e Dicas
       color: text-dark
       type: TitleBlock
     subtitle: ddd

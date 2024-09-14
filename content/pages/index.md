@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Joias em Prata 925 e Semi-Joias
       color: text-dark
       styles:
         self:

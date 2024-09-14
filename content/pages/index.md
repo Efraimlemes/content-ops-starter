@@ -722,11 +722,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: fale com Josi
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Desde já somos gratos pela sua visita e pelo seu contato. Deixe uma
+      mensagem para nos ajudar a sempre esta trazerndo o que á de melhor no
+      mundo dos acessorio e joias confeccionadas em prata 925 de alta qualidade
+      e bom gosto.
+
     media:
       fields:
         - name: name

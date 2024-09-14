@@ -7,7 +7,7 @@ sections:
       text: Flor de Prata
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Acessórios em Prata
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a

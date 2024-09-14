@@ -440,10 +440,10 @@ sections:
       - title: “Amei os produtos da Use Flor de Prata.”
         tagline: Cliente
         subtitle: 'Josi Santos, Quinari City - AC'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          O Envio foi imediato e chegou muito rapido, eu nao estava nem
+          esperando e chegou na minha porta, a caixa veio cheirozinha hmmm... e
+          as jois cada uma mais linda que a outra adorei
         image:
           url: /images/448863475_400450452982760_4758519357349147622_n.jpg
           altText: Maria Walters

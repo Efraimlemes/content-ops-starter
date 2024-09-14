@@ -316,7 +316,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /videoflor.mp4
+      url: publico/imagens/videoflor.mp4
       autoplay: true
       loop: true
       muted: true

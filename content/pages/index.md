@@ -682,7 +682,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Feature Item Three
-        tagline: This is the tagline
+        tagline: Ouro 18k
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create

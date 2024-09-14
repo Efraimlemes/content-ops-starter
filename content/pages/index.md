@@ -308,7 +308,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        textDecoration: line-through
     type: GenericSection
   - type: GenericSection
     title:

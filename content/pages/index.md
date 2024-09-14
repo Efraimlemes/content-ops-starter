@@ -478,5 +478,7 @@ seo:
   metaDescription: Use Flor de Prata - Catalago Virtual
   socialImage: /images/Flor de Prata.png
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---

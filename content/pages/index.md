@@ -311,7 +311,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: De SC para o Brasil
+      text: IN BOX
       color: text-dark
       styles:
         self:

@@ -660,8 +660,9 @@ sections:
       - title: C & C
         tagline: Semi-Joia
         subtitle: R$ 120
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          Descriçao do produto
+
         image:
           url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
           altText: Placeholder image

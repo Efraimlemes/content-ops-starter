@@ -180,6 +180,99 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Catalgo de Produtos
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Semi-Joias
+    items:
+      - title: Penduricai
+        tagline: prata 925
+        subtitle: R$ 300
+        text: |
+          Descrição do penduricai
+        image:
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: C & C
+        tagline: Semi-Joia
+        subtitle: R$ 120
+        text: |+
+          Descriçao do produto
+
+        image:
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Snake
+        tagline: Ouro 18k
+        subtitle: R$ 500
+        text: |+
+          Descriçao do produto
+
+        image:
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -477,99 +570,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Catalgo de Produtos
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Semi-Joias
-    items:
-      - title: Penduricai
-        tagline: prata 925
-        subtitle: R$ 300
-        text: |
-          Descrição do penduricai
-        image:
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: C & C
-        tagline: Semi-Joia
-        subtitle: R$ 120
-        text: |+
-          Descriçao do produto
-
-        image:
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Snake
-        tagline: Ouro 18k
-        subtitle: R$ 500
-        text: |+
-          Descriçao do produto
-
-        image:
-          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Sugestões e Dicas
       color: text-dark

@@ -681,7 +681,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Snake
         tagline: Ouro 18k
         subtitle: This is the item subtitle
         text: >

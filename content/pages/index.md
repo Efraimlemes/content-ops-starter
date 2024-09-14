@@ -62,7 +62,7 @@ sections:
     subtitle: Qualidade e Bom gosto
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Penduricai
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

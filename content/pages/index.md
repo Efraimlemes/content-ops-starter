@@ -230,7 +230,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: 'Lançametos '
+      text: Lançametos
       color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md

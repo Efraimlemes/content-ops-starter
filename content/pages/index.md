@@ -4,10 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Flor de Prata
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Acessórios em Prata
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: USE
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +53,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Joias em Prata 925 e Semi-Joias
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Qualidade e Bom gosto
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Penduricai
+        subtitle: Brincos
+        text: |+
+          aqui voce adiciona a Descriçao para os brincos penduricai
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -86,18 +85,16 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Snake
+        subtitle: Brincos
+        text: |
+          Aqui voce adiciona a descriçao dos brinco de cobrinha
         image:
-          url: /images/icon2.svg
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -115,14 +112,38 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - type: FeaturedItem
+        title: Outros Brincos disponiveis
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
-          url: /images/icon3.svg
+          type: ImageBlock
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - title: C & C
+        subtitle: Brincos
+        text: |+
+          aqui voce adiciona a Descriçao para os brincos do CC
+
+          ## R$ 150
+
+        image:
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -139,7 +160,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Fale Conosco
         altText: ''
         url: /
         showIcon: false
@@ -149,7 +170,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: conheça nossos produtos
       color: text-primary
       styles:
         self:
@@ -168,27 +189,35 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Prata 925
     images:
+      - url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
+        altText: Wellster logo
+        type: ImageBlock
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/Flor de Prata.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: >-
+          /images/logo-23223894-1612374968-13a69ad395541ebb45a2455c74576ccc1612374969-480-0.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
@@ -199,6 +228,10 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: Lançametos
+      color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -229,21 +262,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Parcelamos tudo em até 10x sem juros no cartão
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: '*Nas compras acima de R$ 1mil'
+    text: >
+      para melhor atender você cliente oferecemos o parcelamento da sua compra
+      para que você possa desfrutar de nossos produtos com mais tranquilidade na
+      hora de pagar sua fatura do cartão.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=M8kThxSjFaQ'
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -262,7 +294,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Só na flor de prata
       color: text-primary
       styles:
         self:
@@ -275,25 +307,25 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: IN BOX
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Enviamos para todo o Brasil
+    text: >
+      A Use Flor de Prata envia os produtos para todo o Brasil com muito
+      carinho, agilidade e com garantia que o produto vai chegar na mão de suas
+      clientes.
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: ../videoflor.mp4
       autoplay: true
       loop: true
       muted: true
@@ -354,42 +386,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -402,19 +398,17 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Comentarios de nossos Clientes
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: “Amei os produtos da Use Flor de Prata.”
+        tagline: Cliente
+        subtitle: 'Josi Santos, Quinari City - AC'
+        text: >
+          O Envio foi imediato e chegou muito rapido, eu nao estava nem
+          esperando e chegou na minha porta, a caixa veio cheirozinha hmmm... e
+          as jois cada uma mais linda que a outra adorei
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/448863475_400450452982760_4758519357349147622_n.jpg
           altText: Maria Walters
           styles:
             self:
@@ -434,10 +428,9 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+      - title: '"Bla Bla Bla Bla Bla Bla Bla"'
+        tagline: Cliente
+        subtitle: 'John Doe, Rio Branco - AC'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -464,7 +457,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +517,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +547,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -597,13 +593,13 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Penduricai
+        tagline: prata 925
+        subtitle: R$ 300
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Descrição do penduricai
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -620,13 +616,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: C & C
+        tagline: Semi-Joia
+        subtitle: R$ 120
+        text: |+
+          Descriçao do produto
+
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
           altText: Placeholder image
           styles:
             self:
@@ -643,13 +640,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+      - title: Snake
+        tagline: Ouro 18k
+        subtitle: R$ 500
+        text: |+
+          Descriçao do produto
+
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
           altText: Placeholder image
           styles:
             self:
@@ -680,35 +678,36 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Sugestões e Dicas
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: fale com Josi
+    text: >+
+      Desde já somos gratos pela sua visita e pelo seu contato. Deixe uma
+      mensagem para nos ajudar a sempre esta trazerndo o que á de melhor no
+      mundo dos acessorio e joias confeccionadas em prata 925 de alta qualidade
+      e bom gosto.
+
     media:
       fields:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Seu nome
           isRequired: true
           width: full
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Seu e-mail
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Sua mensagem
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -726,14 +725,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Enviar
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contate-nos
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

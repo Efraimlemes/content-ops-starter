@@ -4,9 +4,9 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Descriçao do Negocio\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "PRODUTOS",
         "links": [
             {
                 "label": "Features",
@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "A MARCA",
         "links": [
             {
                 "label": "Careers",
@@ -61,27 +61,27 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "WhatsApp",
+            "url": "https://w.app/UseFlordePrata",
             "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "altText": "Facebook",
+            "url": "https://w.app/UseFlordePrata",
+            "icon": "facebook",
+            "type": "Social"
+        },
+        {
+            "altText": "instagram",
+            "url": "https://www.instagram.com/useflorde_prata/",
+            "icon": "instagram",
+            "type": "Social"
+        },
+        {
+            "altText": "youtube",
+            "url": "https://www.instagram.com/useflorde_prata/",
+            "icon": "youtube",
             "type": "Social"
         }
     ],
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Powered by [Efraim L.](facebook.com/efraimhrl) ASSIS TEC INFO\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

@@ -181,7 +181,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg

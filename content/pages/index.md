@@ -269,11 +269,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: '*Nas compras acima de R$ 1mil'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      para melhor atender você cliente forecemos o parcelamento
+
+      da sua compra para que você possa desfrutar de nossos produtos
+
+      com mais tranquilidade na hora de pagar sua fatura do cartão.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4

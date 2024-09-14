@@ -663,7 +663,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
           altText: Placeholder image
           styles:
             self:

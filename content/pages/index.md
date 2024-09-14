@@ -659,7 +659,7 @@ sections:
         type: FeaturedItem
       - title: C & C
         tagline: Semi-Joia
-        subtitle: This is the item subtitle
+        subtitle: R$ 120
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:

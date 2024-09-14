@@ -325,7 +325,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/videoflor.mp4
+      url: ../videoflor.mp4
       autoplay: true
       loop: true
       muted: true

@@ -634,7 +634,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Penduricai
         tagline: prata 925
         subtitle: This is the item subtitle
         text: |

@@ -13,7 +13,7 @@ sections:
       confeccionados em prata 925, que vai realçar ainda mais a sua beleza e te
       proporcionar um ar de muita elegância e glamour
     actions:
-      - label: See Tutorials
+      - label: Fale Conosco
         altText: ''
         url: /
         showIcon: true

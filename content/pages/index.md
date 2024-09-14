@@ -475,7 +475,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Use - Flor de Prata
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Use Flor de Prata - Catalago Virtual
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

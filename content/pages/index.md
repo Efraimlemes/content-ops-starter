@@ -64,10 +64,8 @@ sections:
       - type: FeaturedItem
         title: Penduricai
         subtitle: Brincos
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          aqui voce adiciona a Descriçao para os brincos penduricai
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

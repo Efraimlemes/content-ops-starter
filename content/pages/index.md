@@ -295,7 +295,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Só na flor de prata
       color: text-primary
       styles:
         self:

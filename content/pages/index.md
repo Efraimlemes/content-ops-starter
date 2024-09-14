@@ -91,10 +91,8 @@ sections:
               borderRadius: x-large
       - title: Snake
         subtitle: Brincos
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Aqui voce adiciona a descriçao dos brinco de cobrinha
         image:
           url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
           altText: Featured icon two

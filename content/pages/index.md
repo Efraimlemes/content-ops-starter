@@ -175,6 +175,13 @@ sections:
       - url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_52f51e8b.jpg
         altText: Wellster logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/Flor de Prata.png
         altText: Vise logo
         type: ImageBlock

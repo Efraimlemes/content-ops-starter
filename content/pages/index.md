@@ -311,7 +311,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Envio para Cliente
+      text: De SC para o Brasil
       color: text-dark
       styles:
         self:

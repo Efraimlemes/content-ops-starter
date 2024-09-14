@@ -479,5 +479,6 @@ seo:
   socialImage: /images/Flor de Prata.png
   type: Seo
   metaTags: []
+  addTitleSuffix: true
 type: PageLayout
 ---

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Use Flor de Prata
 slug: /
 sections:
   - type: GenericSection

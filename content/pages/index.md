@@ -636,7 +636,7 @@ sections:
     items:
       - title: Penduricai
         tagline: prata 925
-        subtitle: This is the item subtitle
+        subtitle: R$ 300
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

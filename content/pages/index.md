@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: 'https://w.app/UseFlordePrata'
         showIcon: true
-        icon: chevronDown
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''

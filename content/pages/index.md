@@ -435,7 +435,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Comentarios de nossos Clientes
     items:
       - title: “Amei os produtos da Use Flor de Prata.”
         tagline: Cliente

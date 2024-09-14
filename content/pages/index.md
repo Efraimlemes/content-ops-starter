@@ -275,8 +275,7 @@ sections:
       hora de pagar sua fatura do cartão.
     media:
       title: Title of the video
-      url: >-
-        https://drive.google.com/file/d/1IEwfYVkXXhLYZftTCvzvvFsih74i8fKx/view?usp=drive_link
+      url: 'https://vimeo.com/1009510146?share=copy'
       controls: false
       aspectRatio: '16:9'
       styles:

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Use Flor de Prata
 slug: /
 sections:
   - type: GenericSection
@@ -474,9 +474,10 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Use - Flor de Prata
+  metaDescription: Use Flor de Prata - Catalago Virtual
+  socialImage: /images/Flor de Prata.png
   type: Seo
+  metaTags: []
 type: PageLayout
 ---

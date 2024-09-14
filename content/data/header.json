@@ -14,7 +14,7 @@
         {
             "label": "WhatsApp",
             "altText": "WhatsApp",
-            "url": "https://w.app/UseFlordePrata",
+            "url": "http://w.app/UseFlordePrata",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

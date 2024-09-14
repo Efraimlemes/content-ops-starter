@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Acessórios em Prata
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A Flor de Prata está chegando com muitas novidades, com seus acessório 
+      confeccionados em prata 925, que vai realçar ainda mais a sua beleza e te
+      proporcionar um ar de muita elegância e glamour
     actions:
       - label: Get started
         altText: ''

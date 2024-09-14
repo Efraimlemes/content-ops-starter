@@ -478,7 +478,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Catalgo de Produtos
       color: text-primary
       styles:
         self:

@@ -684,9 +684,9 @@ sections:
       - title: Snake
         tagline: Ouro 18k
         subtitle: R$ 500
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |+
+          Descriçao do produto
+
         image:
           url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.41_c0429818.jpg
           altText: Placeholder image

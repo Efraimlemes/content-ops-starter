@@ -439,7 +439,7 @@ sections:
     items:
       - title: “Amei os produtos da Use Flor de Prata.”
         tagline: Cliente
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Josi Santos, Quinari1City - AC'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

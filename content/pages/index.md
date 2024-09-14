@@ -638,7 +638,7 @@ sections:
         tagline: prata 925
         subtitle: R$ 300
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Descrição do penduricai
         image:
           url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
           altText: Placeholder Image

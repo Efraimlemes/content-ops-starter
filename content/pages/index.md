@@ -318,11 +318,10 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Enviamos para todo o Brasil
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      A Use Flor de Prata envia os produtos para todo o Brasil com muito
+      carinho, agilidade e com garantia que o produto vai chegar na mão de suas
+      clientes.
     actions: []
     media:
       title: Title of the video

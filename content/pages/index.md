@@ -264,26 +264,6 @@ sections:
       para melhor atender você cliente oferecemos o parcelamento da sua compra
       para que você possa desfrutar de nossos produtos com mais tranquilidade na
       hora de pagar sua fatura do cartão.
-    media:
-      title: Title of the video
-      url: /imagens/videoflor.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: Só na flor de prata
       color: text-primary

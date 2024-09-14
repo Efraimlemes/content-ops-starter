@@ -16,7 +16,7 @@ sections:
       - label: Fale Conosco
         altText: ''
         url: 'https://w.app/UseFlordePrata'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary

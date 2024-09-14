@@ -683,7 +683,7 @@ sections:
         type: FeaturedItem
       - title: Snake
         tagline: Ouro 18k
-        subtitle: This is the item subtitle
+        subtitle: R$ 500
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.

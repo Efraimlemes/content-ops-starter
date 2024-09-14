@@ -316,7 +316,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /imagens/videoflor.mp4
+      url: 'https://www.youtube.com/watch?v=M8kThxSjFaQ '
       autoplay: true
       loop: true
       muted: true

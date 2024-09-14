@@ -189,8 +189,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: >-
-        https://github.com/Efraimlemes/content-ops-starter/blob/main/public/images/videoflor.mp4
+      url: /main/public/images/videoflor.mp4
       autoplay: true
       loop: true
       muted: true

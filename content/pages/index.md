@@ -86,7 +86,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Imagem do WhatsApp de 2024-09-13 à(s) 22.30.40_2b04461c.jpg
           styles:
             self:
               borderRadius: x-large

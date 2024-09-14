@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Use Flor de Prata
+      text: Flor de Prata
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

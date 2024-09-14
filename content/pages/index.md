@@ -275,7 +275,8 @@ sections:
       hora de pagar sua fatura do cartão.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://www.instagram.com/reel/C_4Kqt3pc3g/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       controls: false
       aspectRatio: '16:9'
       styles:

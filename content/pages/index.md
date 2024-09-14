@@ -64,8 +64,9 @@ sections:
       - type: FeaturedItem
         title: Penduricai
         subtitle: Brincos
-        text: |
+        text: |+
           aqui voce adiciona a Descriçao para os brincos penduricai
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

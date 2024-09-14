@@ -190,7 +190,7 @@ sections:
     media:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=M8kThxSjFaQ '
-      autoplay: false
+      autoplay: true
       loop: true
       muted: true
       controls: false

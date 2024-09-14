@@ -114,7 +114,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Outros Brincos disponiveis
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.

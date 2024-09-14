@@ -115,7 +115,7 @@ sections:
       - type: FeaturedItem
         title: Outros Brincos disponiveis
         tagline: ''
-        subtitle: Par de Brincos C & C
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
